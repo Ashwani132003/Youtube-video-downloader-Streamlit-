@@ -1,2 +1,2 @@
-pytube
+pytube 12.1.0
 streamlit
